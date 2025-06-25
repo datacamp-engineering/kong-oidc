@@ -1,7 +1,7 @@
 return {
    dependencies = {
       lua = "5.1-1",
-      ["lua-resty-http"] = "0.16-0",
+      ["lua-resty-http"] = "0.17.2-r0",
       ["lua-resty-jwt"] = "0.2.3-0",
       ["lua-resty-openidc"] = "1.7.2-1",
       ["lua-resty-openssl"] = "0.6.11-1",
